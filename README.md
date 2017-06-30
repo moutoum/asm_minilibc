@@ -1,7 +1,7 @@
 # asm_minilibc
  Some functions of the libc recoded in asm
 
-######List of the functions:
+###### List of the functions:
 ```
      - index
      - memcpy
@@ -18,7 +18,7 @@
      - strstr
 ```
 
-######The repository contains automated tests in python:
+###### The repository contains automated tests in python:
 ```
 ./test.py
 ```
